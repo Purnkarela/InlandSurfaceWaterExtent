@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Layer 2024 05 20 @ 09:14:29",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "pond1", "description": "<pre id=\"com.exlyo.mapmarker.description_p_tag\"><\/pre>", "timestamp": "2024\/05\/22 05:11:07+00", "com_exlyo_mapmarker_piniconcode": -1, "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 73.958021014640494, 21.218702170530499 ], [ 74.006222083036306, 21.220779717611101 ], [ 74.007414152469806, 21.188646940144299 ], [ 73.959161254968606, 21.187728758078599 ], [ 73.959161254968606, 21.187728758078599 ], [ 73.958021014640494, 21.218702170530499 ] ] ] } },
+{ "type": "Feature", "properties": { "Name": "pond2", "description": "<pre id=\"com.exlyo.mapmarker.description_p_tag\"><\/pre>", "timestamp": "2024\/05\/22 03:30:00+00", "com_exlyo_mapmarker_piniconcode": -1, "com_exlyo_mapmarker_customfields": [ ] }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 70.911472366435603, 26.9121734317802 ], [ 70.9305973064765, 26.9127280234406 ], [ 70.9318412050158, 26.8974295379012 ], [ 70.912819923186703, 26.896042865775499 ], [ 70.912819923186703, 26.896042865775499 ], [ 70.911472366435603, 26.9121734317802 ] ] ] } }
+]
+}
